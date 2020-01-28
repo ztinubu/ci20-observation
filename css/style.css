@@ -1,0 +1,82 @@
+html {
+	font-family: 'Almarai', sans-serif;
+	color: black;
+}
+
+ul { list-style: none;
+	color: black;
+}
+header {
+	font-size: 75px;
+	color: #003300;
+}
+
+a {
+text-decoration: none;
+color: black;
+}
+
+a:hover{
+	opacity: 0.2;
+}
+ul li a: hover {
+	color: red;
+}
+img {
+	width: 40%;
+	height: 40%;
+}
+.eric_content {
+	align-items: center;
+	padding-left: 600px;
+	padding-right: 600px;
+}
+.eric_content_2{
+	align-items: center;
+	padding-left: 600px;
+	padding-right: 600px;
+	padding-bottom: 30px;
+	opacity: 0.5;
+
+}
+.big_tech_oil_content {
+	align-items: center;
+	padding-left: 600px;
+	padding-right: 600px;
+
+}
+.big_tech_oil_content_2{
+	align-items: center;
+	padding-left: 600px;
+	padding-right: 600px;
+	padding-bottom: 30px;
+	opacity: 0.5;
+
+}
+.microwave_content {
+	align-items: center;
+	padding-left: 600px;
+	padding-right: 600px;
+}
+.microwave_content_2 {
+	align-items: center;
+	padding-left: 600px;
+	padding-right: 600px;
+	padding-bottom: 30px;
+	opacity: 0.5;
+
+}
+.microwave_content_3{
+	align-items: center;
+	padding-left: 600px;
+	padding-right: 600px;
+	/*display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;*/
+}
+.microwave_content_4 {
+	align-items: center;
+	padding-left: 600px;
+	padding-right: 600px;
+	opacity: 0.5;
+}
